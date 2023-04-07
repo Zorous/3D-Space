@@ -2069,7 +2069,7 @@ source-map@^0.5.7:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
   integrity sha512-LbrmJOMUSdEVxIKvdcJzQC+nQhe8FUZQTXQy6+I75skNgn3OoQ0DZA8YnFa7gp8tqtL3KPf1kmo0R5DoApeSGQ==
 
-spacesvr@latest:
+spacesvr@^2.10.6:
   version "2.10.6"
   resolved "https://registry.yarnpkg.com/spacesvr/-/spacesvr-2.10.6.tgz#124168a058eef874bcbf06a43bd0dca86766dad0"
   integrity sha512-cf7CTQzh5t7qEsmTlwmVwM3Qdn8RaWkJKmwNeph1YATt0ZIO7SoGeOAVUj54qyUH4uAo0aaa0nasbyQtAdP0sA==
