@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 
 import { Spinning, Floating, StandardReality } from "spacesvr";
 import TransparentFloor from "ideas/TransparentFloor";
